@@ -1,0 +1,6 @@
+🚀 Jay's Frames POS System Starting...
+📍 Port: 3000
+📁 Static files: /home/runner/workspace/dist/public
+✅ POS System running: http://0.0.0.0:3000
+✅ Health check: http://0.0.0.0:3000/health
+🎯 Ready for customer use

@@ -1,0 +1,14 @@
+Server: Successfully initialized Supabase client
+12:43:00 AM [express] Serving static files from: /home/runner/workspace/dist/public
+🚀 Starting Jay's Frames POS System
+📍 Environment: production
+🔌 Port: 5000
+🌐 Binding to: 0.0.0.0:5000
+12:43:00 AM [express] serving on port 5000
+✅ Server successfully started on port 5000
+✅ Health endpoints available at: [
+  'http://0.0.0.0:5000/',
+  'http://0.0.0.0:5000/health',
+  'http://0.0.0.0:5000/ready'
+]
+✅ Ready for incoming connections

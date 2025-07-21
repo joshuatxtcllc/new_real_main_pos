@@ -1,0 +1,20 @@
+Server: Successfully initialized Supabase client
+file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:49257
+    const err = typeof e === "string" ? new Error(e) : e;
+                                        ^
+
+Error: Failed to read theme file: ENOENT: no such file or directory, open './theme.json'
+    at PluginContext._formatError (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:49257:41)
+    at PluginContext.error (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:49252:16)
+    at PluginContext.buildStart (file:///home/runner/workspace/node_modules/@replit/vite-plugin-shadcn-theme-json/dist/index.mjs:303:14)
+    at async Promise.all (index 5)
+    at async PluginContainer.hookParallel (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:48990:5)
+    at async PluginContainer.buildStart (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:48993:5)
+    at async file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:63291:7
+    at async _createServer (file:///home/runner/workspace/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:63317:5)
+    at async setupVite (file:///home/runner/workspace/dist/server.mjs:4014:16)
+    at async file:///home/runner/workspace/dist/server.mjs:8961:5 {
+  plugin: 'vite-plugin-theme'
+}
+
+Node.js v20.18.1
